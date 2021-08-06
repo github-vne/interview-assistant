@@ -1,0 +1,15 @@
+# NPM packages
+**/node_modules/
+*.lock
+*.log
+
+#Build
+build/
+
+#Idea
+.vscode/*
+.idea/*
+
+#Logs
+*.log
+package-lock.json
